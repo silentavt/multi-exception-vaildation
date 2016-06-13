@@ -25,5 +25,10 @@
     "psr-4": {
       "Silentavt\\MultiExceptionValidation\\": "src"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "1.0": "1.0"
+    }
   }
 }
