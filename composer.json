@@ -1,0 +1,29 @@
+{
+  "name": "silentavt/multi-exception-validation",
+  "type": "library",
+  "description": "This package provides the fill method, that implements multiexception validation mechanism",
+  "keywords": [
+    "silentavt",
+    "multiexception",
+    "validation",
+    "multivalidation"
+  ],
+  "homepage": "https://github.com/silentavt/multi-exception-vaildation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Tikhonravov",
+      "email": "silent.avt@gmail.com",
+      "homepage": "http://www.silentavt.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php" : ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Silentavt\\MultiExceptionValidation\\": "src"
+    }
+  }
+}
